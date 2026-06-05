@@ -26,7 +26,7 @@ Copy `skill.md` into your Claude Code skills directory:
 
 ```bash
 # Clone the repo
-git clone https://github.com/billdeng-git/coffee-chat-skills.git
+git clone https://github.com/Bill306/coffee-chat-skills.git
 
 # Copy to your skills directory
 mkdir -p ~/.claude/skills/coffee-chat
